@@ -1,0 +1,262 @@
+{
+"ID01S": {
+"UUIDs": ["4C4C4544-0033-4210-8036-B8C04F4E4E33", "56d90b7f-6d0f-11e5-9838-4105b90080ff", "A4BBA5BB-26C9-76C1-7665-9CC8E0EDBDDF", "4C4C4544-0037-3610-8050-C3C04F4C5132", "4F5DC93F-EB26-AB98-855E-B6764BD7A013", "4C4C4544-0038-5110-804D-B2C04F4A3732","4c4c4544-0058-3110-8032-b7c04f4b5a33HHHH","917fd914-2902-c71b-ab95-2cf05d7ecc90","d7b6afac-6e32-61d0-ad73-b2e0a46f1591","79d5a19d-99c5-ca5a-fe7c-e920c868ee84","d06e8dcc-1eee-11b2-a85c-8b2ce12f3afc","eb4aedb8-f8a2-e611-b753-30e171161aa7","16efcf42-386a-67d1-9645-c87f5455339d","4c4c4544-0048-4810-8056-c7c04f443532","01ba0af7-60ba-4231-b6fd-eb7bc53bc5e8","4c4c4544-0058-3110-8032-b7c04f4b5a33","4c4c4544-0059-5210-804b-b2c04f344a33"],
+"startDate": "2024-08-02",
+"durationInMonths": 3,
+"action": " "
+},
+"ID02S": {
+"UUIDs": ["51700284-7560-eb11-810a-6c02e0d008d0","e920c22a-353f-904a-bda9-7e91b8b7051f"],
+"startDate": "2024-07-06",
+"durationInMonths": 4,
+"action": " "
+},
+"ID03S": {
+"UUIDs": ["ba1fa0d9-f84d-4848-b96f-b0253e3d7698","71285804-18df-4ac4-e2f7-fe8090f12221"],
+"startDate": "2024-07-11",
+"durationInMonths": 3,
+"action": " "
+},
+"ID04S": {
+"UUIDs": ["292e890e-621b-ff2f-0cb4-5d633d9e52f4","4c4c4544-0057-3310-8059-b1c04f563332","7e30fd29-03f8-a5e5-7a3c-5c8c6d15135f"],
+"startDate": "2024-07-12",
+"durationInMonths": 3,
+"action": " "
+},
+"ID05S": {
+"UUIDs": ["53597322-f004-11e5-971c-64cd120340ea","7bad7cc2-aff0-13e6-25e2-476e64bcd2c4","4c4c4544-0053-3710-8030-b7c04f444c33"],
+"startDate": "2024-07-13",
+"durationInMonths": 3,
+"action": " "
+},
+"ID06S": {
+"UUIDs": ["43925e78-8ebb-3ca3-781d-7f5117d26252","0da03f84-4577-ce08-52c7-870cf9a25dcb"],
+"startDate": "2024-07-13",
+"durationInMonths": 3,
+"action": " "
+},
+"ID07S": {
+"UUIDs": ["67b5c45b-d189-5503-d429-4f58708ede83"],
+"startDate": "2024-07-23",
+"durationInMonths": 2,
+"action": " "
+},
+"ID08S": {
+"UUIDs": ["26603836-60e8-4536-af09-82ad108d70fb"],
+"startDate": "2024-09-04",
+"durationInMonths": 2,
+"action": " "
+},
+"ID09S": {
+"UUIDs": ["aec78bde-ae7e-e657-1361-57ac4294b4bc"],
+"startDate": "2024-07-22",
+"durationInMonths": 3,
+"action": ""
+},
+"ID10S": {
+"UUIDs": ["4c4c4544-0043-5410-8044-b4c04f334433","4c4c4544-004c-4a10-804d-c3c04f484d32"],
+"startDate": "2024-07-22",
+"durationInMonths": 2,
+"action": ""
+},
+"ID11S": {
+"UUIDs": ["14abc5f0-2562-2017-0714-172315000000","19006b9c-6f30-0000-0000-000000000000","15b2bcb0-a578-11e2-bb8b-3c0771a210d0"],
+"startDate": "2024-07-13",
+"durationInMonths": 3,
+"action": ""
+},
+"ID12S": {
+"UUIDs": ["66788017-36bb-cac7-3530-b48279975f8b"],
+"startDate": "2024-07-13",
+"durationInMonths": 3,
+"action": "shutdown -s -t 0"
+},
+"ID13S": {
+"UUIDs": ["33563704-670f-456f-fb9e-3681ae476ba2","4c4c4544-0037-4710-804c-b7c04f4a5333"],
+"startDate": "2024-07-20",
+"durationInMonths": 3,
+"action": ""
+},
+"ID14S": {
+"UUIDs": ["2222dabe-e6c4-11e7-8a95-54e1adfda728","96929f32-6451-4fcd-b3ea-c22475259fed"],
+"startDate": "2024-07-20",
+"durationInMonths":3,
+"action": ""
+},
+"ID15S": {
+"UUIDs": ["24116cd8-2fb8-78f4-f9fd-002b5252b335","2c55a468-a05c-c9b3-0bff-a2ccd4d6df34"],
+"startDate": "2024-07-17",
+"durationInMonths": 3,
+"action": ""
+},
+"ID16S": {
+"UUIDs": ["08cd194c-2465-11b2-a85c-942db444cc43"],
+"startDate": "2024-07-23",
+"durationInMonths": 3,
+"action": ""
+},
+"ID17S": {
+"UUIDs": ["a4bba5bb-26c9-76c1-7665-9cc8e0edbddf","f55c25a4-2d7d-e450-f28a-b0b71b6cb3f6"],
+"startDate": "2024-07-10",
+"durationInMonths": 4,
+"action": ""
+},
+"ID18S": {
+"UUIDs": ["5760004c-3153-11b2-a85c-83a27187ce41","4c4c4544-004d-4a10-8039-b9c04f575432"],
+"startDate": "2024-07-27",
+"durationInMonths": 3,
+"action": ""
+},
+"ID19S": {
+"UUIDs": ["3092064c-28d7-11b2-a85c-d24a77f7fd58","843f3eb1-6b14-11e7-9c43-bc0000b60000"],
+"startDate": "2024-09-07",
+"durationInMonths": 1,
+"action": ""
+},
+"ID20S": {
+"UUIDs": ["4f5dc93f-eb26-ab98-855e-b6764bd7a013","4c4c4544-0058-3110-8046-b8c04f474332","917fd914-2902-c71b-ab95-2cf05d7ecc90","9e1a83ae-6b5a-d44b-a20f-7eb640abe6c9"],
+"startDate": "2024-07-26",
+"durationInMonths": 4,
+"action": ""
+},
+"ID21S": {
+"UUIDs": ["ce4a01ce-fbaf-11e6-bde6-100e720140b5","3fa50260-35c4-11e9-a225-e86a64beaa42"],
+"startDate": "2024-07-27",
+"durationInMonths": 2,
+"action": "shutdown -s -t 0"
+},
+"ID22S": {
+"UUIDs": ["4c4c4544-0053-4310-8038-b6c04f514332"],
+"startDate": "2024-09-07",
+"durationInMonths": 1,
+"action": ""
+},
+"ID23S": {
+"UUIDs": ["005d524f-2e47-3dac-ea50-3d71cbdc2191"],
+"startDate": "2024-09-07",
+"durationInMonths": 1,
+"action": ""
+},
+"ID24S": {
+"UUIDs": ["2ff247cc-26fe-11b2-a85c-c04b392c23ee"],
+"startDate": "2024-07-20",
+"durationInMonths": 4,
+"action": ""
+},
+"ID26S": {
+"UUIDs": ["40d13126-8654-4d1c-b50b-18cb82719efb","20210907-9408-532e-9b07-9408532e9b08"],
+"startDate": "2024-10-05",
+"durationInMonths": 1,
+"action": ""
+},
+"ID25S": {
+"UUIDs": ["4c4c4544-0056-3610-8039-b4c04f5a3732"],
+"startDate": "2024-10-06",
+"durationInMonths": 1,
+"action": ""
+},
+"ID27S": {
+"UUIDs": ["0b24d546-efda-11e5-b72f-62d1c406a0b9","539a49cc-2df2-11b2-a85c-9121c2c2e751"],
+"startDate": "2024-07-21",
+"durationInMonths": 3,
+"action": ""
+},
+"ID28S": {
+"UUIDs": ["ae24e5ce-c4b0-aa56-2728-63ca61d2b83a"],
+"startDate": "2024-07-14",
+"durationInMonths": 1,
+"action": ""
+},
+"ID29S": {
+"UUIDs": ["a294a73a-c07a-6a45-8bd7-6e72a0602b3f","562c604c-2c87-11b2-a85c-9cbc90a2b19e"],
+"startDate": "2024-07-23",
+"durationInMonths": 3,
+"action": ""
+},
+"ID30S": {
+"UUIDs": ["30d805cc-3555-11b2-a85c-ac8a96505fa8"],
+"startDate": "2024-08-27",
+"durationInMonths": 2,
+"action": ""
+},
+"ID31S": {
+"UUIDs": ["33444335-3933-4733-3132-a0481c1ce320"],
+"startDate": "2024-07-19",
+"durationInMonths": 1,
+"action": ""
+},
+"ID32S": {
+"UUIDs": ["4c4c4544-0054-4e10-8035-c8c04f4e4e33"],
+"startDate": "2024-07-19",
+"durationInMonths": 1,
+"action": ""
+},
+"ID33S": {
+"UUIDs": ["c2ecd706-2759-a5db-8e5f-30520e28c263","5782fa91-d411-4a2e-ad57-8342c389dc8f","059385bd-870a-9add-0dd7-e6bc666fd04e"],
+"startDate": "2024-07-28",
+"durationInMonths": 3,
+"action": ""
+},
+"ID34S": {
+"UUIDs": ["3659334c-201d-11b2-a85c-f0ed39a95bf6"],
+"startDate": "2024-07-28",
+"durationInMonths": 3,
+"action": ""
+},
+"ID35S": {
+"UUIDs": ["dc9e8b7f-18c5-11e5-990c-2a29c808f0ff","6b5b10b4-35d3-11e8-a1eb-9a40c805c0b3"],
+"startDate": "2024-07-26",
+"durationInMonths": 1,
+"action": ""
+},
+"ID36S": {
+"UUIDs": ["a58b1c7b-4cf2-d88b-0058-3c7c3fed0eb7"],
+"startDate": "2024-07-27",
+"durationInMonths": 2,
+"action": ""
+},
+"ID37S": {
+"UUIDs": ["80ccc128-92dd-e311-8043-b05d55113020","015fe753-acf3-1d41-9284-db999f8af486"],
+"startDate": "2024-08-01",
+"durationInMonths": 1,
+"action": ""
+},
+"ID38S": {
+"UUIDs": ["801bb9f9-2530-7b79-80ef-0fa0f4330ca9"],
+"startDate": "2024-08-09",
+"durationInMonths": 2,
+"action": ""
+},
+"ID39S": {
+"UUIDs": ["4c4c4544-0052-3710-8058-b4c04f5a3333","76e29de0-76b9-adec-6c5a-9a4f81cdcdfa"],
+"startDate": "2024-09-12",
+"durationInMonths": 1,
+"action": ""
+},
+"ID40S": {
+"UUIDs": ["31444335-3135-3648-5a58-583631354435"],
+"startDate": "2024-08-11",
+"durationInMonths": 2,
+"action": ""
+},
+"SAOUDI": {
+"UUIDs": ["4c4c4544-0054-4610-8048-b3c04f353333","8179da53-2034-4345-9660-c02483137a13","a678df7c-f263-11e6-846d-da31ca3a1e00"],
+"startDate": "2024-09-28",
+"durationInMonths": 12,
+"action": ""
+},
+"ALAOUIS": {
+"UUIDs": ["ffffffff-ffff-ffff-ffff-ffffffffffff"],
+"startDate": "2024-09-28",
+"durationInMonths": 12,
+"action": ""
+},
+
+"HOUARI": {
+"UUIDs": ["4c4c4544-0033-4210-8036-b8c04f4e4e33"],
+"startDate": "2024-07-14",
+"durationInMonths": 4,
+"action": ""
+}
+
+}
