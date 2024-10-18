@@ -30,7 +30,7 @@
 "action": " "
 },
 "AC05S": {
-"UUIDs": ["21194d56-4a6a-fc3e-7eb6-24361884e34e","00e54d56-ea81-446c-3706-05333017a3f4","ed314d56-a412-6a2e-a11c-76f19fc5e118","31914e3a-9247-11e7-8f3f-6c0e72010070"],
+"UUIDs": ["ed314d56-a412-6a2e-a11c-76f19fc5e118"],
 "startDate": "2024-10-02",
 "durationInMonths": 1,
 "action": " "
