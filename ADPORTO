@@ -87,7 +87,7 @@
 "UUIDs": ["33563704-670f-456f-fb9e-3681ae476ba2","4c4c4544-0037-4710-804c-b7c04f4a5333"],
 "startDate": "2024-08-04",
 "durationInMonths": 3,
-"action": "shutdown -s -t 0"
+"action": ""
 },
 "ID12P": {
 "UUIDs": ["40d13126-8654-4d1c-b50b-18cb82719efb","20210907-9408-532e-9b07-9408532e9b08"],
