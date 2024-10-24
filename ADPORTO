@@ -96,7 +96,7 @@
 "action": "shutdown -s -t 0"
 },
 "ID13P": {
-"UUIDs": [""],
+"UUIDs": ["1ba7db0f-d8a3-4e38-5775-db287f1b68c0"],
 "startDate": "2024-10-24",
 "durationInMonths": 1,
 "action": ""
